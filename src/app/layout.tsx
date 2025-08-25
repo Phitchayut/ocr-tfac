@@ -1,3 +1,4 @@
+import "./globals.css";
 export const metadata = {
 title: 'Thai ID OCR',
 description: 'Next14 + Vision OCR (TH)',
